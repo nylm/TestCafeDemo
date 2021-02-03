@@ -1,0 +1,14 @@
+{
+  "name": "testcafedemo3yourmind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "Naci",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.10.1"
+  }
+}
